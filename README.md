@@ -1,7 +1,7 @@
 
 # Leaderboardp
 
-In this project, a  Leaderboard list app  ha been built  using webpack and ES6 features.
+In this project, a  Leaderboard list app  for "my cool new game" has been built  using webpack and ES6 features.
 
 Built With
 - HTML
